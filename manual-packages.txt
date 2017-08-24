@@ -1,0 +1,1 @@
+pacman -U ttf-ms-win10-10.0.15063-2-any.pkg.tar
