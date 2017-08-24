@@ -3,6 +3,7 @@ cfssl
 deployer
 dropbox
 git-crypt
+git-spindle-git
 gitflow-avh
 gitflow-bashcompletion-avh
 gitkraken
