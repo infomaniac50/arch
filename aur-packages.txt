@@ -1,3 +1,4 @@
+binfmt-java
 cfssl
 deployer
 dropbox
