@@ -4,6 +4,7 @@ beep
 bind-tools
 bless
 cfssl
+clang35
 composer
 cower
 curl
@@ -14,16 +15,22 @@ ecryptfs-utils
 evince
 expac
 fasd
+file-roller
 git
 git-annex
 gitkraken
 gnome-font-viewer
 google-chrome
 gtk-engine-murrine
+httpie
 hugo
+inkscape
+iperf3
+jq
 keepass
 keepass-plugin-http
 keepass-plugin-keeagent
+lftp
 libmcrypt
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
@@ -45,6 +52,7 @@ processing
 pygmentize
 rambox-bin
 rclone
+rdesktop
 readline
 reflector
 seahorse
@@ -62,6 +70,7 @@ ttf-roboto
 ttf-ubuntu-font-family
 unzip
 vegeta
+virtualenv
 whois
 yajl
 zip
