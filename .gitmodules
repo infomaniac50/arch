@@ -1,0 +1,3 @@
+[submodule "custom-packages/aur-typecatcher"]
+	path = custom-packages/aur-typecatcher
+	url = https://github.com/infomaniac50/aur-typecatcher
