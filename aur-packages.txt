@@ -10,6 +10,7 @@ gitkraken
 google-chrome
 jre
 keepass-plugin-http
+ngrok
 nvm
 pacaur
 package-query
