@@ -11,6 +11,7 @@ google-chrome
 jre
 keepass-plugin-http
 ngrok
+ntfs-3g-system-compression
 nvm
 pacaur
 package-query
