@@ -10,10 +10,10 @@ dropbox-cli
 duplicati-latest
 expac-git
 gimagereader-qt5
-git-spindle-git
 gitflow-avh
 gitflow-bashcompletion-avh
 gitkraken
+git-spindle-git
 gksu
 google-chrome
 inxi
@@ -35,11 +35,11 @@ paper-gtk-theme-git
 paper-icon-theme
 platformio
 postman-bin
+python2-click-5.1
+python2-translate-toolkit-lib
 python-github3.py
 python-httpie-jwt-auth
 python-uritemplate.py
-python2-click-5.1
-python2-translate-toolkit-lib
 qtspell
 rambox-bin
 sublime-text-dev
