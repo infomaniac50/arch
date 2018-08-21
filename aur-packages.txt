@@ -1,9 +1,11 @@
 apachedirectorystudio
 areca-bin
 aurman
+bfg
 bindfs
 binfmt-java
 cfssl
+cidrmerge
 cndrvcups-lb-bin
 dropbox
 dropbox-cli
@@ -13,6 +15,7 @@ gimagereader-qt5
 gitflow-avh
 gitflow-bashcompletion-avh
 gitkraken
+git-now-git
 git-spindle-git
 gksu
 google-chrome
@@ -42,6 +45,7 @@ python-httpie-jwt-auth
 python-uritemplate.py
 qtspell
 rambox-bin
+shim-signed
 sublime-text-dev
 trickle
 ttf-ms-win10

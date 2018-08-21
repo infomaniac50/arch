@@ -108,6 +108,7 @@ intel-ucode
 iperf3
 iproute2
 iputils
+ipv6calc
 iw
 jfsutils
 jq
@@ -183,6 +184,7 @@ pypy
 python2-nautilus
 python2-pip
 python-distutils-extra
+python-pipenv
 qcachegrind
 qt4
 rawtherapee
@@ -197,6 +199,7 @@ rsync
 rtl-sdr
 samba
 sane
+sbsigntools
 screen
 screenfetch
 scribus
