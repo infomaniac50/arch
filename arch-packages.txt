@@ -82,6 +82,7 @@ gqrx
 graphviz
 grep
 groff
+grsync
 gsmartcontrol
 gst-plugins-base
 gst-plugins-good
