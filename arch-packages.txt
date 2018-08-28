@@ -1,5 +1,7 @@
+accountsservice
 ack
 acpid
+adobe-source-code-pro-fonts
 aircrack-ng
 alacarte
 alsa-utils
@@ -23,6 +25,7 @@ bluez
 bluez-utils
 brasero
 breeze-icons
+btrfs-progs
 bzip2
 calibre
 cmake
@@ -70,6 +73,7 @@ git-crypt
 git-lfs
 glibc
 gmock
+gnome-disk-utility
 gnome-font-viewer
 gnome-keyring
 gnome-packagekit
@@ -105,6 +109,7 @@ inetutils
 inkscape
 inotify-tools
 intel-ucode
+iotop
 iperf3
 iproute2
 iputils
@@ -128,6 +133,7 @@ linux
 linuxconsole
 linux-headers
 logrotate
+lshw
 lsof
 lvm2
 m4
@@ -137,6 +143,7 @@ man-pages
 mdadm
 meld
 mesa
+mlocate
 mousepad
 movit
 mplayer
@@ -154,14 +161,17 @@ networkmanager-strongswan
 networkmanager-vpnc
 ninja
 ntfs-3g
+ntp
 numix-gtk-theme
 openssh
 openvpn
 orage
 os-prober
 pacman
+pacman-contrib
 parallel
 partclone
+partimage
 patch
 pavucontrol
 pciutils
@@ -169,6 +179,8 @@ perl
 perl-file-mimeinfo
 php
 php-sqlite
+pigz
+pixz
 pkgconf
 playonlinux
 poedit
@@ -179,11 +191,15 @@ psmisc
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
+putty
 pygmentize
 pypy
+python
+python2
 python2-nautilus
 python2-pip
 python-distutils-extra
+python-pip
 python-pipenv
 qcachegrind
 qt4
@@ -214,6 +230,7 @@ s-nail
 solaar
 sox
 speedcrunch
+sqlitebrowser
 stow
 strace
 strongswan
@@ -247,6 +264,7 @@ ttf-roboto
 ttf-ubuntu-font-family
 tumbler
 ufw
+unrar
 unzip
 usbutils
 util-linux
@@ -254,6 +272,8 @@ vagrant
 vi
 vim
 virtualbox
+virtualbox-guest-iso
+virtualbox-host-dkms
 wget
 which
 whois
@@ -349,7 +369,9 @@ xorg-xvinfo
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
+xsane
 xscreensaver
+xsel
 xterm
 yajl
 yelp
