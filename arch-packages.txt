@@ -63,7 +63,6 @@ frei0r-plugins
 garcon
 gawk
 gcc
-gcc-libs
 gdb
 gettext
 gimp
@@ -71,7 +70,6 @@ git
 git-annex
 git-crypt
 git-lfs
-glibc
 gmock
 gnome-disk-utility
 gnome-font-viewer
@@ -85,7 +83,6 @@ graphviz
 grep
 groff
 gsmartcontrol
-gst-libav
 gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
@@ -123,8 +120,6 @@ less
 lftp
 libmcrypt
 libreoffice-fresh
-libtool
-libu2f-host
 licenses
 lightdm
 lightdm-gtk-greeter
