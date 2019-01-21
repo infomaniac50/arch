@@ -1,5 +1,5 @@
-arch-packages:
-	pacman -Qeq | sort > arch-packages.txt
+arch-packages: arch-packages.sh
+	/bin/bash arch-packages.sh > arch-packages.txt
 
 aur-packages:
 	pacman -Qmq | sort > aur-packages.txt
